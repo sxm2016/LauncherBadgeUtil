@@ -9,7 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/launchbadger" />
+            <option value="$PROJECT_DIR$/launcher-badge" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
