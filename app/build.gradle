@@ -23,7 +23,3 @@ dependencies {
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile project(':launcher-badge')
 }
-
-//tasks.withType(Compile) {
-//    options.encoding = 'UTF-8'
-//}
