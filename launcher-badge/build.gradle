@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-// 参考：http://www.jianshu.com/p/3c63ae866e52#
+
 android {
     compileSdkVersion 24
     buildToolsVersion "24.0.2"
