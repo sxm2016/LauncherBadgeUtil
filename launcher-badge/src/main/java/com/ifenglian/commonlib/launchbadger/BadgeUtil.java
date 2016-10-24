@@ -47,6 +47,8 @@ public class BadgeUtil {
         Log.d(TAG, "currentHomePackage:" + currentHomePackage);
         if (badger == null)
             badger = BadgerType.getBadgerByLauncherName(currentHomePackage);
+        currentCount = currentCount>99?99:currentCount;
+        totalCount = totalCount>999?999:totalCount;
         badger.executeBadge(applicationContext, notification, notifyID, currentCount, totalCount);
     }
 
