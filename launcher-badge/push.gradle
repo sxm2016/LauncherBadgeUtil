@@ -7,7 +7,7 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'launcher-badge'
 
-    publishedGroupId = 'com.ifenglian.commonlib'
+    publishedGroupId = 'com.shixm.commonlib'
     libraryName = 'LauncherBadge'
     artifact = 'launcher-badge'
 
@@ -16,7 +16,7 @@ ext {
     siteUrl = 'https://github.com/sxm2016/LauncherBadgeUtil'
     gitUrl = 'https://github.com/sxm2016/LauncherBadgeUtil.git'
 
-    libraryVersion = '1.0.1'
+    libraryVersion = '1.0.5'
 
     developerId = 'sxm2016'
     developerName = 'shixm'
